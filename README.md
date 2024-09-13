@@ -20,3 +20,4 @@ Thrifting Management System is for a client who is expanding his business to thr
 
 Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
 
+![Untitled design (2)](https://github.com/user-attachments/assets/1efef603-52f7-4d83-95eb-f4c84e818f2b)
